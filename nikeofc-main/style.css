@@ -1,0 +1,454 @@
+
+.lago img{
+position:relative;
+width: 15%;
+height: 7%;
+color: black;
+left: 44%;
+}
+
+.imagem video{
+position: relative;
+width: 100%;
+height: 80%;
+
+}
+
+.sele h1{
+    position: absolute;
+color: black ;
+top: 155%;
+left:30%;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 140%;
+
+
+}
+
+.mu img{
+position: absolute;
+left: 30%;
+top: 170%;
+width: 20%;
+height: 34%;
+box-shadow: 0px 15px 35px;
+
+
+}
+
+.muu img {
+position: absolute;
+width: 20%;
+height: 34%;
+left: 54%;
+top: 170%;
+opacity:  0px 15px 25px 35px black;
+box-shadow: 0px 15px 35px;
+}
+
+.texto H1{
+position: absolute;
+color: black;
+left: 40%;
+top: 210%;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+
+
+
+}
+
+.tenis img{
+position: absolute;
+ top: 240%;
+ left: 15%;
+ box-shadow: 0px 15px 35px;
+
+}
+
+.tenisi img{
+position: absolute;
+top: 240%;
+left: 45%;
+box-shadow: 0px 15px 35px;
+
+}
+
+.tre img{
+position: absolute;
+top: 240%;
+left: 75%;
+box-shadow: 0px 15px 35px;
+}
+
+.pelicu{
+    position: absolute;
+color: black;
+top: 240%;
+width: 100%;
+border-radius: 10%;
+background: rgba(0, 0, 0, 0.40)
+}
+
+.tt img{
+position: absolute;
+top: 278%;
+left: 32%;
+box-shadow: 0px 15px 35px black;
+height: 29%;
+width: 14%;
+}
+
+.te img{
+position: absolute;
+top: 278%;
+left: 55%;
+box-shadow: 0px 15px 35px black;
+height: 29%;
+width: 14%;
+}
+
+.mulhere h1{
+position: absolute;
+top: 320%;
+left: 30%;
+color: black;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mulhere img{
+position: absolute;
+top: 322.8%;
+left: 66%;
+width: 5%;
+height: 7%;
+
+
+}
+
+.fut img{
+position: absolute;
+top: 340%;
+left: 15%;
+width: 30%;
+box-shadow:  0px 15px 35px black;
+
+}
+
+.fut h1{
+position: absolute;
+top: 350%;
+left: 48%;
+height: 15%;
+color: black;
+font-size: 120%;
+width: 40%;
+}
+
+.bo h1{
+position: absolute;
+top: 387%;
+color: black;
+left: 34%;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+
+
+}
+
+.bo img{
+position: absolute;
+top: 410%;
+left: 20%;
+
+
+
+
+}
+
+.bo h2{
+position: absolute;
+top: 460%;
+left: 37%;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+
+}
+
+.air img{
+position: absolute;
+top: 490%;
+left: 10%;
+width: 80%;
+
+
+
+}
+
+
+.felipe img{
+position: absolute;
+left: 11%;
+top: 480%;
+width: 7%;
+height: 11%;
+
+
+}
+
+.felipe h2{
+position: absolute;
+left: 37%;
+top: 600%;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+width: 40%;
+font-size: 130%;
+}
+
+.zoom img{
+position: absolute;
+top: 580%;
+left: 20%;
+
+
+
+}
+
+.dois img{
+position: absolute;
+top:635%;
+left: 36%;
+
+
+
+}
+
+
+.tres img{ 
+
+position: absolute;
+top:670%;
+left: 36%;
+
+}
+
+.quatro img{
+
+position: absolute;
+top:670%;
+left: 19%;
+box-shadow: 0px 15px 35px;
+    }
+
+
+.cinco img{
+    position: absolute;
+    top:645%;
+    left: 59%;
+box-shadow: 0px 15px 35px;
+
+
+}
+
+.felipe h1{
+position: absolute;
+top: 580%;
+left: 35%;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+
+.PE h1{
+    position: absolute;
+color: black;
+top: 690%;
+left: 59%;
+
+
+
+}
+
+.liga img{
+position: absolute;
+top: 740%;
+left: 20%;
+box-shadow: 0px 15px 35px;
+
+
+
+
+
+}
+
+.liga h1{
+position: absolute;
+top: 720%;
+left: 40%;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+
+
+}
+
+
+.liga h2{
+position: absolute;
+top: 795%;
+left: 35%;
+
+
+
+}
+
+.cori img{
+    position: absolute;
+top: 830%;
+left: 15%;
+box-shadow: 0px 15px 35px;
+
+
+
+}
+
+.nk h1{
+position: absolute;
+color: black;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+top: 815%;
+left: 30%;
+
+
+}
+
+.ime img{
+position: absolute;
+top: 910%;
+left: 15%;
+box-shadow:  0px 15px 35px black;
+
+
+
+}
+
+
+.nk img{
+position: absolute;
+top: 910%;
+left: 37%;
+box-shadow: 0px 15px 35px  black;
+height: 47%;
+
+
+}
+
+.ff img{
+position: absolute;
+top: 910%;
+left: 59%;
+box-shadow: 0px 15px 35px  black;
+height: 47%;
+
+
+
+
+}
+
+
+.sccp img{
+position: absolute;
+top: 970%;
+box-shadow: 0px 15px 35px black;
+left: 0%;
+width: 100%;
+
+
+}
+
+.pel {
+position: absolute;
+color: black;
+top: 990%;
+box-shadow: 0px 4px 4px 0px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
